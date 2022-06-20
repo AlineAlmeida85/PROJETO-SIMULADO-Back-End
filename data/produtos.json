@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3,
+    "title": "X-tudo",
+    "price": 35,
+    "description": "",
+    "image": "https://drive.google.com/file/d/1LWeeojL1b4qjlFztZ_Ip0pKqZXVfBQ5o/view?usp=sharing",
+    "category": "salgado"
+  },
+  {
+    "id": 4,
+    "title": "X-Churrasco",
+    "price": 55,
+    "description": "",
+    "image": "https://drive.google.com/file/d/122mSQD2Nsy9wdYk4IU0moj1X4YpXcS_g/view?usp=sharing",
+    "category": "salgado"
+  },
+  {
+    "id": 5,
+    "title": "Pizza de strogonofe",
+    "price": 75,
+    "description": "",
+    "image": "https://drive.google.com/file/d/1HcQhVc_cZX307AhYjj-2RNyuiHHBwsfR/view?usp=sharing",
+    "category": "salgado"
+  },
+  {
+    "id": 8,
+    "title": "Pizza de mussarela",
+    "price": 45.5,
+    "description": "Feito com molho de tomate especial",
+    "image": "https://...",
+    "category": "salgado"
+  },
+  {
+    "id": 9,
+    "title": "Paste de frango",
+    "price": 15,
+    "description": "Frango bem temperada",
+    "image": null,
+    "category": "salgado"
+  },
+  {
+    "id": 10,
+    "title": "Coxinha",
+    "price": 8,
+    "description": "Coxinha bem temperada",
+    "image": null,
+    "category": "salgado"
+  }
+]

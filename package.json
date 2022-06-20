@@ -1,0 +1,25 @@
+{
+  "name": "projeto-simulado-back-end",
+  "version": "1.0.0",
+  "description": "projeto Simulado do Programa Jovens Tegranos - Back-End",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlineAlmeida85/PROJETO-SIMULADO-Back-End.git"
+  },
+  "author": "Aline Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlineAlmeida85/PROJETO-SIMULADO-Back-End/issues"
+  },
+  "homepage": "https://github.com/AlineAlmeida85/PROJETO-SIMULADO-Back-End#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}

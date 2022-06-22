@@ -49,14 +49,15 @@ ___
 - `2 `  ✔️ `GET /products` - Find Products
 - `3 `  ✔️ `GET /products/{id}` - Find Products by id
 - `4 `  ✔️ `PUT /products/{id}` - Update Products
-- `4 `  ✔️ `DELETE /products/{id}` - Delete Products by id
+- `5 `  ✔️ `DELETE /products/{id}` - Delete Products by id
 
 
 ___
 ## 📋 Pré-requisitos 
 
 #### Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-#### [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org/en/). 
 #### Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 
